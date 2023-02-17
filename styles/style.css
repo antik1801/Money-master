@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Universal selectors  */
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* Money master logo styles  */
+body{
+    padding: 37px 55px 75px 65px;
+}
+#money-master-logo{
+    text-align: center;
+}
+#main-content{
+    background: #F8F8F8;
+    padding: 2rem;
+}
